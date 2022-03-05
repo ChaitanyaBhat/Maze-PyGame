@@ -1,4 +1,4 @@
-# Maze Game
+# Maze Game:
 
 This game is implemented using Python PyGame.
 
